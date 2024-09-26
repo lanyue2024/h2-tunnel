@@ -2,6 +2,9 @@
 能伪装成任意网站，以haproxy为基础的http2 tunnel和sniproxy。
 
 ## 服务端
+> 没有服务器？看这里 https://github.com/lanyue2024/simple-proxy
+
+
 在ubuntu 22.04/24.04上安装haproxy，
 ```bash
 sudo apt update && sudo apt install haproxy unzip -y
